@@ -25,5 +25,6 @@
 
 <h2>Mensagem de erro:</h2>
 <img width="633" height="211" alt="image" src="https://github.com/user-attachments/assets/e631e194-9863-4d7f-8004-9df6486df576" />
-<img width="544" height="77" alt="image" src="https://github.com/user-attachments/assets/3bdd59c2-afef-4c5d-9b20-db55eff30767" />
+
+<img width="547" height="206" alt="image" src="https://github.com/user-attachments/assets/b917c58f-ab8f-414e-9ba8-df42ec53c441" />
 
