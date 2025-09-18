@@ -1,10 +1,12 @@
 <h1>Algoritmo: Calculadora de tarifas</h1>
 <p> Este algoritmo consiste em uma atividade desenvolvida em sala de aula, tendo como principal objetivo a utilização dos conhecimentos ditos em sala de aula como:</p>
-<ol>
-  <li>A biblioteca Java Scanner</li>
-  <li> Switch case</li>
-  <li>e o try, catch e finally</li>
-</ol>
+<ul>
+  <li>A biblioteca Java <code>Scanner</code> para entrada de dados</li>
+  <li>Estruturas condicionais <code>if</code> e <code>else</code></li>
+  <li>Tratamento de exceções com <code>try</code>, <code>catch</code> e <code>finally</code></li>
+  <li>O uso de <code>switch-case</code> para seleção de opções</li>
+</ul>
+
 
 <h2> A execução do código:</h2>
 <p>Inicialmente, é pedido ao usuário para que ele escolha um dos meios de transportes listados com seus respectivos valores ao lado: </p>
