@@ -13,3 +13,15 @@
 <img width="394" height="24" alt="image" src="https://github.com/user-attachments/assets/930e442f-e6c6-4697-90da-c5ecb50c181a" />
 <p>E por fim, logo após as escolhas do usuário, é exibido um resumo da compra incluindo: valores, meio de transporte e quantidade de bilhetes escolhidos</p>
 <img width="678" height="175" alt="image" src="https://github.com/user-attachments/assets/a631d96f-666d-4dcd-ac04-a4450ecb87a8" />
+
+<h2> 💡Importante</h2>
+<details>
+  <summary>Observação</summary>
+  <ol>
+    <li>Em determinada parte do código foi desenvolvido uma mensagem de erro, que tem como objetivo guiar o usuário para que o objetivo do algoritmo seja concluído</li>
+  </ol>
+</details>
+
+<h2>Mensagem de erro:</h2>
+<img width="633" height="211" alt="image" src="https://github.com/user-attachments/assets/e631e194-9863-4d7f-8004-9df6486df576" />
+
