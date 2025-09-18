@@ -19,9 +19,11 @@
   <summary>Observação</summary>
   <ol>
     <li>Em determinada parte do código foi desenvolvido uma mensagem de erro, que tem como objetivo guiar o usuário para que o objetivo do algoritmo seja concluído</li>
+    <li>Neste caso, a mensagem será exibida em dois casos: quando a quantidade de bilhetes for maior ou igual a 0 (zero), ou quando o número escolhido para o meio de transporte for maior do que 4 (quatro)</li>
   </ol>
 </details>
 
 <h2>Mensagem de erro:</h2>
 <img width="633" height="211" alt="image" src="https://github.com/user-attachments/assets/e631e194-9863-4d7f-8004-9df6486df576" />
+<img width="544" height="77" alt="image" src="https://github.com/user-attachments/assets/3bdd59c2-afef-4c5d-9b20-db55eff30767" />
 
